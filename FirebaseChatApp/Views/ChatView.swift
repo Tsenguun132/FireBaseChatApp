@@ -19,10 +19,10 @@ struct ChatView: View {
                     ScrollView {
                         ForEach(chatController.messages, id: \.messageID) { message in
                             ChatRow(message: message)
-                                .id(sampleConversation.firstIndex(of: message))
+                                .id(chatController.messages.firstIndex(of: message))
                         }
                         .onAppear {
-                            scrollView.scrollTo(sampleConversation.count - 1)
+                            scrollView.scrollTo(chatController.messages.count - 1)
                         }
                     }
                 }
