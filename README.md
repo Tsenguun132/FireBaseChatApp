@@ -23,7 +23,7 @@ Chat bubbles and layout is inspired from [Dribble](https://dribbble.com/shots/18
 <table>
   <tr>
      <td>Chat Screen</td>
-     <td>Search function view</td>
+     <td>Chat Screen 2</td>
   </tr>
   <tr>
     <td><img src="https://github.com/Tsenguun132/FireBaseChatApp/blob/main/ScreenShots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-07-26%20at%2014.56.28.png" width=300 height=650></td>
