@@ -49,6 +49,7 @@ Clone project, build in xcode and run via simulator.
 [Firebase](https://firebase.google.com)\
 [CocoaPods](https://cocoapods.org)\
 UserDefaults
+MVVM
 
 
 #### Status
