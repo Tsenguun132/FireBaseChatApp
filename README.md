@@ -48,7 +48,7 @@ Clone project, build in xcode and run via simulator.
 [Combine](https://developer.apple.com/documentation/combine/)\
 [Firebase](https://firebase.google.com)\
 [CocoaPods](https://cocoapods.org)\
-UserDefaults
+UserDefaults\
 MVVM
 
 
